@@ -21,7 +21,7 @@ This project is a simple frontend application,consisting of reviews of three nov
 
 ---
 
-### Sneak peek👀:
+### Sneak peek 👀:
 
 <br>
 
@@ -29,4 +29,4 @@ https://github.com/user-attachments/assets/6261eacb-d40e-44ec-9271-7b28e6cc009c
 
 <br>
 
-THANKYOU!!:)
+THANK YOU SO MUCH!!:)
